@@ -13,7 +13,7 @@ def third_challenge
         :name => "Romeo",
         :age => "15"
         :status => "alive"
-        },
+      },
       :hero_friends => []
    }, 
    :capulet => {
@@ -32,7 +32,5 @@ def third_challenge
         },
       :heroine_friends => []
    }
-  }
-
-  
+}
 end
